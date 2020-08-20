@@ -29,7 +29,7 @@
 ### Prediction
 
 #### GPT-2 Interview Any Celebrity
-![gptceleb](https://github.com/mathyouf/mathyouf/blob/master/Images/gptjobs.jpg)
+![gptceleb](https://github.com/mathyouf/mathyouf/blob/master/Images/gptjobssmall.jpg)
 
 
 # 3D Media
