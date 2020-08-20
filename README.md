@@ -5,24 +5,31 @@
 ### Hand Tracking
 
 #### Real-time single camera web based hand tracking in-browser
-![chands](GIFs/chands.gif)
+![chands](https://github.com/mathyouf/mathyouf/blob/master/GIFs/chands.gif)
 
 ## Data Visualization
 
 ### Optimization
 
 #### WebVR Loss Landscape Visualization
-![tfvr](GIFs/tfvr.gif)
+![tfvr](https://github.com/mathyouf/mathyouf/blob/master/GIFs/tfvr.gif)
 
 ## Reinforcement Learning
 
 ### Unity ML Agents
 
 #### Agent learns to navigate Torii Gates
-![torii](GIFs/torii.gif)
+![torii](https://github.com/mathyouf/mathyouf/blob/master/GIFs/torii.gif)
 
 #### Agent learns to play basketball
-![bball](GIFs/bball.gif)
+![bball](https://github.com/mathyouf/mathyouf/blob/master/GIFs/bball.gif)
+
+## NLP
+
+### Prediction
+
+#### GPT-2 Interview Any Celebrity
+![gptceleb](https://github.com/mathyouf/mathyouf/blob/master/GIFs/celebgpt.gif)
 
 
 # 3D Media
@@ -33,4 +40,4 @@
 
 #### WebVR Multiplayer Shooting Game
 
-![webvrmulti](GIFs/webvrmulti.gif)
+![webvrmulti](https://github.com/mathyouf/mathyouf/blob/master/GIFs/webvrmulti.gif)
