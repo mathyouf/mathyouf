@@ -1,6 +1,6 @@
 ### Hi there 
 
-![ML Workflow](Images/ML_Workflow.png.png?raw=true "ML Workflow")
+![ML Workflow](Images/ML_Workflow.png?raw=true "ML Workflow")
 
 
 <!--
