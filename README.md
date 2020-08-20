@@ -1,20 +1,24 @@
+# Machine Learning
+
+## Computer Vision
+
+### Hand Tracking
+
+#### Real-time single camera web based hand tracking in-browser
+![chands](GIFs/chands.gif)
+
+### Data Visualization
+
+#### WebVR Loss Landscape Visualization
+![tfvr](GIFs/tfvr.gif)
 
 
-<!--
-### My Workflows
+# 3D Media
 
-![ML Workflow](https://raw.githubusercontent.com/mathyouf/mathyouf/master/Images/ML_Workflow.png?raw=true "ML Workflow")
+## Virtual Reality
 
-**mathyouf/mathyouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### WebVR
 
-Here are some ideas to get you started:
+#### WebVR Multiplayer Shooting Game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![webvrmulti](GIFs/webvrmulti.gif)
