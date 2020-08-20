@@ -7,10 +7,22 @@
 #### Real-time single camera web based hand tracking in-browser
 ![chands](GIFs/chands.gif)
 
-### Data Visualization
+## Data Visualization
+
+### Optimization
 
 #### WebVR Loss Landscape Visualization
 ![tfvr](GIFs/tfvr.gif)
+
+## Reinforcement Learning
+
+### Unity ML Agents
+
+#### Agent learns to navigate Torii Gates
+![torii](GIFs/torii.gif)
+
+#### Agent learns to play basketball
+![bball](GIFs/bball.gif)
 
 
 # 3D Media
