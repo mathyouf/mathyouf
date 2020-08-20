@@ -29,7 +29,7 @@
 ### Prediction
 
 #### GPT-2 Interview Any Celebrity
-![gptceleb](https://github.com/mathyouf/mathyouf/blob/master/GIFs/gptjobs.gif)
+![gptceleb](https://github.com/mathyouf/mathyouf/blob/master/GIFs/gptjobs.jpg)
 
 
 # 3D Media
@@ -42,8 +42,14 @@
 
 ![webvrmulti](https://github.com/mathyouf/mathyouf/blob/master/GIFs/webvrmulti.gif)
 
+### Maps
+
+#### Mapbox Scroller for Tokyo Intl. Schools
+
+![tokyoi](https://github.com/mathyouf/mathyouf/blob/master/GIFs/tokyoi.gif)
+
 ### Simulation
 
 #### Neuroadaptive Learning: OpenBCI (EEG) + VR Job Training
 Created while working so I can't show it!
-![BCI](https://github.com/mathyouf/mathyouf/blob/master/Images/bci.jpg)
+![BCI](https://github.com/mathyouf/mathyouf/blob/master/Images/bcismall.jpg)
