@@ -29,7 +29,7 @@
 ### Prediction
 
 #### GPT-2 Interview Any Celebrity
-![gptceleb](https://github.com/mathyouf/mathyouf/blob/master/GIFs/celebgpt.gif)
+![gptceleb](https://github.com/mathyouf/mathyouf/blob/master/GIFs/gptjobs.gif)
 
 
 # 3D Media
@@ -41,3 +41,9 @@
 #### WebVR Multiplayer Shooting Game
 
 ![webvrmulti](https://github.com/mathyouf/mathyouf/blob/master/GIFs/webvrmulti.gif)
+
+### Simulation
+
+#### Neuroadaptive Learning: OpenBCI (EEG) + VR Job Training
+Created while working so I can't show it!
+![BCI](https://github.com/mathyouf/mathyouf/blob/master/Images/bci.jpg)
