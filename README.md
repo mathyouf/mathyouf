@@ -6,7 +6,7 @@
 
 #### [Real-time single camera web based hand tracking in-browser](https://github.com/mathyouf/3D_Web_HandTracking)
 ![chands](https://github.com/mathyouf/mathyouf/blob/master/GIFs/chands.gif)
-[Live Demo](https://glitch.com/edit/#!/3dweb-hands?path=README.md%3A1%3A0)
+[LiveDemo](https://glitch.com/edit/#!/3dweb-hands?path=README.md%3A1%3A0)
 
 ## Data Visualization
 
