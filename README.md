@@ -6,6 +6,7 @@
 
 #### [Real-time single camera web based hand tracking in-browser](https://github.com/mathyouf/3D_Web_HandTracking)
 ![chands](https://github.com/mathyouf/mathyouf/blob/master/GIFs/chands.gif)
+
 [LiveDemo](https://glitch.com/edit/#!/3dweb-hands?path=README.md%3A1%3A0)
 
 ## Data Visualization
@@ -14,6 +15,7 @@
 
 #### [WebVR Loss Landscape Visualization](https://github.com/mathyouf/WebVR_Loss_Landscape_DataVisualization)
 ![tfvr](https://github.com/mathyouf/mathyouf/blob/master/GIFs/tfvr.gif)
+
 [Live Demo](https://glitch.com/edit/#!/tfjs-webvr?path=README.md%3A1%3A0)
 
 ## Reinforcement Learning
@@ -54,6 +56,7 @@
 #### Mapbox Scroller for Tokyo Intl. Schools
 
 ![tokyoi](https://github.com/mathyouf/mathyouf/blob/master/GIFs/tokyoi.gif)
+
 [Link](https://glitch.com/edit/#!/tokyoi)
 
 ### Simulation
