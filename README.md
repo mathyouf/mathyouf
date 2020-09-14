@@ -22,7 +22,7 @@
 
 ### Unity ML Agents
 
-#### [Agent learns to navigate Torii Gates](https://github.com/mathyouf/Unity_MLAgents-ReinforcementLearning)
+#### [RL Agent learns to navigate Torii Gates](https://github.com/mathyouf/Unity_MLAgents-ReinforcementLearning)
 ![torii](https://github.com/mathyouf/mathyouf/blob/master/GIFs/torii.gif)
 
 #### [Agent learns to play basketball](https://github.com/mathyouf/Unity_MLAgents-ReinforcementLearning)
