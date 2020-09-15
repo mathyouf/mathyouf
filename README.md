@@ -65,6 +65,4 @@
 ##### Created while working so I can't show it!
 ![BCI](https://github.com/mathyouf/mathyouf/blob/master/Images/bcismall.jpg)
 
-```diff
-+ ##### Resume [Download PDF](https://github.com/mathyouf/mathyouf/raw/master/RschEng_XRIAI_MattF.pdf)
-```
+##### Interested? [Resume PDF Download](https://github.com/mathyouf/mathyouf/raw/master/RschEng_XRIAI_MattF.pdf) :) {E-mails Preferred}
