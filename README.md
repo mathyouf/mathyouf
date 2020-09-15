@@ -64,3 +64,7 @@
 #### Neuroadaptive Learning: OpenBCI (EEG) + VR Job Training
 ##### Created while working so I can't show it!
 ![BCI](https://github.com/mathyouf/mathyouf/blob/master/Images/bcismall.jpg)
+
+```diff
+#### + end
+```
