@@ -66,5 +66,5 @@
 ![BCI](https://github.com/mathyouf/mathyouf/blob/master/Images/bcismall.jpg)
 
 ```diff
-#### + end
++ text in green
 ```
