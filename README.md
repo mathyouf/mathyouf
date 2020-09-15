@@ -66,5 +66,5 @@
 ![BCI](https://github.com/mathyouf/mathyouf/blob/master/Images/bcismall.jpg)
 
 ```diff
-+ text in green
++ ##### Resume [Download PDF](https://github.com/mathyouf/mathyouf/raw/master/RschEng_XRIAI_MattF.pdf)
 ```
