@@ -44,7 +44,7 @@
 
 #### WebVR Multiplayer Shooting Game
 
-![webvrmultis](https://github.com/mathyouf/mathyouf/blob/master/GIFs/webvrmulti.gif)
+![webvr_multis](https://github.com/mathyouf/mathyouf/blob/master/GIFs/webvrmulti.gif)
 
 #### Virtual Tours
 
