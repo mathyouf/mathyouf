@@ -49,7 +49,7 @@
 #### Virtual Tours
 
 ##### [Goree](https://github.com/mathyouf/GoreeIslandTour)
-![goree](https://github.com/mathyouf/mathyouf/blob/master/GIFs/senegal.gif)
+![goree-i](https://github.com/mathyouf/mathyouf/blob/master/GIFs/senegal.gif)
 
 ### Maps
 
