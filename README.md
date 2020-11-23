@@ -1,8 +1,12 @@
 <div align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#ios-app">iOS App</a> •
-  <a href="#ai-model-training">AI Model Training</a> •
-  <a href="#credits">Credits</a>
+  <a href="#webxr">WebXR</a> •
+  <a href="#vr">VR</a> •
+  <a href="#unityml">Unity ML</a> •
+  <a href="#eeg">EEG Data & Brain Scanners</a> •
+  <a href="#applear">Apple AR</a> •
+  <a href="#computervision">Computer Vision</a> •
+  <a href="#nlp">NLP</a> •
+  <a href="#resume">Resume</a>
 </div>
 
 # Machine Learning
