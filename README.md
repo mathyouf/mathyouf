@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#ios-app">iOS App</a> •
+  <a href="#ai-model-training">AI Model Training</a> •
+  <a href="#credits">Credits</a>
+</div>
+
 # Machine Learning
 
 ## Computer Vision
